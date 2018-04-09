@@ -1,3 +1,7 @@
+.smokeItems span {
+    z-index:-10;
+}
+
 body {
     text-align: center;
     background: #000;
