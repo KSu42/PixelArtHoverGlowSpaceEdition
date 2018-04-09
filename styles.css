@@ -1,6 +1,4 @@
-.smokeItems span {
-    z-index:-10;
-}
+
 
 body {
     text-align: center;
@@ -27,8 +25,8 @@ body {
     }
 }
 
-p {
-    z-index: 0;
+.smokeItems span {
+    z-index: -10;
     color: rgba(0, 0, 0, 0);
 }
 
