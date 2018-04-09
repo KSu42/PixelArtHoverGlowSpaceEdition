@@ -1,12 +1,19 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Kevin's Pixel*Art*Maker Space Edition</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton">
-    <link rel="stylesheet" href="styles.css" type="text/css">
-</head>
-<body>
-    <div class="smokeItems">
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton">
+        <link rel="stylesheet" href="styles.css" type="text/css">
+
+        <title>Kevin's Pixel*Art*Maker</title>
+    </head>
+
+    <body>
+        <div class="smokeItems">
             <span id="fog"></span>
             <span id="fog-2"></span>
             <span id="glow"></span>
@@ -15,34 +22,48 @@
             <span id="stars-2"></span>
             <span id="small-stars"></span>
             <span id="small-stars-2"></span>
-    </div>
-    <h1>Pixel*Art*Maker</h1>
+        </div>
 
-    <h2>Choose Grid Size</h2>
+        <h1 class="neonEffect">Pixel*Art*Maker</h1>
 
-    <form id="sizePicker">
+        <div class="sizeSection">
 
-        Grid Height:
+            <p class="largerFont neonEffect">Grid Size</p>
 
-        <input type="number" id="inputHeight" name="height" min="1" value="1">
+            <form id="sizePicker">
 
-        Grid Width:
+                <p class="mediumFont neonEffect">Height:</p>
 
-        <input type="number" id="inputWeight" name="width" min="1" value="1">
+                <input type="number" id="inputHeight" name="height" min="1" max="60" value="15">
+                <p class="mediumFont neonEffect">Width:</p>
 
-        <input type="submit">
+                <input type="number" id="inputWeight" name="width" min="1" max="60" value="15">
 
-    </form>
+                <input type="button" class="buttonStyle smallFont neonEffect" value="Submit/Reset">
+            </form>
+        </div>
 
-    <h2>Pick A Color</h2>
+        <div class="colorSection">
 
-    <input type="color" id="colorPicker">
+            <p class="largeFont neonEffect">Color</p>
+            <br>
+            <input type="color" id="colorPicker" value="#39ff14">
+            <br>
+            <br>
+        </div>
 
-    <h2>Design Canvas</h2>
+        <div class="canvasSection">
 
-    <table id="pixelCanvas"></table>
+            <table id="pixelCanvas"></table>
+            <br>
+            <p class="smallFont neonEffect">Shift  +  Click    to    Erase</p>
+            <br>
+            <br>
+            <br>
+        </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="designs.js"></script>
-</body>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+        <script src="designs.js"></script>
+    </body>
 </html>
