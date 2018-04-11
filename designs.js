@@ -2,8 +2,12 @@ $(document).ready(function() {
 	// Log message to console after DOM is loaded
 	console.log('bonjour');
 
+	// Define variables
+	const submitButton = $("input[type='button']");
+	const designCanvas = $("#pixelCanvas");
+
 	// Submit button
-	$("input[type='button']").on("click",function(event) {
+	submitButton.on("click",function(event) {
 
 		// prevent submit button from submitting data to form handler
 		event.preventDefault();
@@ -13,7 +17,7 @@ $(document).ready(function() {
 		const width = $('#inputWeight').val();
 
 		// clear canvas before drawing
-		$("#pixelCanvas").empty();
+		designCanvas.empty();
 
 		// draw new grid according to size input values
 		makeGrid(height,width);
@@ -26,7 +30,7 @@ $(document).ready(function() {
 	};
 
 	// Set up grid with default values on page load
-	$("input[type='button']").click();
+	submitButton.click();
 
 	// When size is submitted by the user, call makeGrid()
 	function makeGrid(height,width) {
@@ -35,7 +39,7 @@ $(document).ready(function() {
 		for (let i = 0; i < height; i++) {
 
 			// create row
-			$("#pixelCanvas").append($("<tr></tr>"));
+			designCanvas.append($("<tr></tr>"));
 
 			// for number up to width
 			for (let j = 0; j < width; j++) {
@@ -46,7 +50,7 @@ $(document).ready(function() {
 		}
 
 		// change cell color when clicked
-		$("#pixelCanvas").on("mousedown mouseover", "td", function(e) {
+		designCanvas.on("mousedown mouseover", "td", function(e) {
 
 			if (e.buttons === 1) {
 
