@@ -35,7 +35,7 @@ $(document).ready(function() {
 	// When size is submitted by the user, call makeGrid()
 	function makeGrid(height,width) {
 
-		// for number up to hieght
+		// for number up to height
 		for (let i = 0; i < height; i++) {
 
 			// create row
