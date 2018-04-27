@@ -66,3 +66,6 @@ $(document).ready(function() {
 	$(document).keydown(syncShift);
 	$(document).keyup(syncShift);
 });
+
+// Credit to Matthew Cranford for help with the project
+// Credit to Julia Chistiakova for help with erase function

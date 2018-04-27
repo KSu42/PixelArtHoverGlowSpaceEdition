@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"cardNumber"
+			],
+			[
+				"it",
+				"itemName"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"item",
+				"itemPrice"
+			],
+			[
+				"sub",
+				"submitButton"
+			],
+			[
+				"input",
+				"inputHeight"
+			],
+			[
+				"nu",
+				"numberAdder"
+			],
+			[
+				"art",
+				"article2"
+			],
+			[
+				"ar",
+				"articleList"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"in",
+				"interestRatePercent"
+			],
+			[
+				"la",
+				"laughSound"
+			],
+			[
+				"shirt",
+				"shirtSleeve"
+			],
+			[
+				"awe",
+				"awesomeMessage"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "designs.js",
+			"settings":
+			{
+				"buffer_size": 1571,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"act",
+				"ayu: Activate theme"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ksu42/Documents/ksu42/pixel-art-hover-glow-smoked"
+	],
+	"file_history":
+	[
+		"/Users/ksu42/Documents/ksu42/portfolio/toplist/styles.css",
+		"/Users/ksu42/Documents/ksu42/portfolio/toplist/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Flatiron/BCP/Online Shopping Lab/index.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Flatiron/BCP/JS Intro to Looping/loops.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Flatiron/BCP/objects.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Flatiron/BCP/JS Objects Lab/index.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Flatiron/BCP/Deli Counter/index.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/project-pixel-art-maker/designs.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/project-pixel-art-maker/styles.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Flatiron/BCP/Beatles_Loops/index.js",
+		"/Users/ksu42/Documents/KSu42 Repo/pixel-art-hover-glow-smoked/designs.js",
+		"/Users/ksu42/Documents/KSu42 Repo/pixel-art-hover-glow-smoked/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/pixel-art-hover-glow-smoked/styles.css",
+		"/Users/ksu42/Documents/KSu42 Repo/PAM_projects.sublime-workspace",
+		"/Users/ksu42/Documents/KSu42 Repo/pixel-art-hover-glow-smoked/styles_hosted_img.css",
+		"/Users/ksu42/Documents/KSu42 Repo/pixel-art-hover-glow-smoked/removed.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/project-pixel-art-maker/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Space_Smoke_effect/space.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/project-pixel-art-maker/README.md",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Final_Project/project-pixel-art-maker/designs.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Final_Project/project-pixel-art-maker/styles.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Final_Project/project-pixel-art-maker/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Final_Project/project-pixel-art-maker-starter/styles.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Final_Project/project-pixel-art-maker-starter/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Final_Project/project-pixel-art-maker-starter/designs.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-20/Event Object/app.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-20/jQuery Event Listener/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-20/Event Object/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-20/jQuery Event Listener/app.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-19/jQuery Event Listener/app.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-19/jQuery Event Listener/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-19/jQuery Sample Site/app.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-13/quiz-99_bottles_of_juice_4-2.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-19/jQuery Sample Site/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-19/quiz-iterating_with_each.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-19/build_a_dom.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-19/quiz-changing_attributes.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-19/quiz-toggle_classes.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-18/quiz-filters.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-18/select_by_tags/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-18/select_by_tags/quiz-select_by_tags.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-18/quiz-select_by_tags.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-16/quiz-donuts_revisited_7-6.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-16/quiz-facebook_friends_7-5.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-16/quiz-bank_accounts_1_7-3.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-16/quiz-menu_items_7-2.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-16/quiz-umbrella_7-1.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/quiz-nested_numbers_6-10.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-16/object_literals.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/quiz-i_got_bills_6-9.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/2d_donut_arrays.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/quiz-another_type_of_loop_6-8.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/forEach_loop.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/quiz-joining_the_crew_6-6.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/quiz-quidditch_cup_6-5.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/quiz-colors_of_the_rainbow_6-4.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/quiz-the_price_is_right_6-3.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-15/quiz-building_the_crew_6-2.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-14/quiz-laugh_5-4.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-14/named_inline_function_expressions.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-14/quiz-inline_5-6.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-14/quiz-cry_5-5.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-14/function_expressions.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-14/quiz-build_a_triangle_5-3.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-14/quiz-laugh_it_off_5-2.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-13/quiz-countdown_liftoff_4-3.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-13/countdown_test.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-14/quiz-laugh_it_off_5-1.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-13/quiz-find_my_seat_4-8.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-13/quiz-factorials_4-7.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-13/quiz-changing_the_loop_4-4.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-13_4/quiz-JuliaJames_4-1.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_21/quiz-back_to_school_3-9.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_18/quiz-navigating_the_food_chain_3-8.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_14/quiz-what_do_i_wear_3-7.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_13/quiz-ice_cream_3-6.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_12/quiz-checking_your_balance_3-5.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/quiz-what_do_i_wear_3-7.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_13/quiz-ice_cream_3-6_copy.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_8/quiz-murder_mystery_3-4.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_7/quiz-musical_groups_3-3.js",
+		"/Users/ksu42/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_6/quiz-even_or_odd_3-2.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_5/else_if_statements.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-12_5/if_else_statements.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-11_24/awesome_message.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/fend-animal-trading-cards-master/styles.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/fend-animal-trading-cards-master/card.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/fend-animal-trading-cards-master/styles3.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-6_10/link-to-a-stylesheet/css/styles.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/Lesson-6_10/link-to-a-stylesheet/index.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/fend-animal-trading-cards-master/design-prototype.png",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/fend-animal-trading-cards-master/placeholder.png",
+		"/Users/ksu42/Documents/KSu42 Repo/Flatiron/Learnco test 1.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/keyboard-shortcuts/finish.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/keyboard-shortcuts/start.html",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/practice-keyboard-shortcuts/css/main.css",
+		"/Users/ksu42/Documents/KSu42 Repo/Udacity/GwG/practice-keyboard-shortcuts/index.html",
+		"/Users/ksu42/Documents/Test1/Test2/.hiddentestfile.txt",
+		"/Users/ksu42/Documents/Test1/Test2/testfile.txt",
+		"/Users/ksu42/Documents/Test1/Test2/testfiletxt",
+		"/Users/ksu42/Documents/test1.txt",
+		"/Users/ksu42/version-control/reflections/.git/COMMIT_EDITMSG",
+		"/Users/ksu42/version-control/reflections/lesson_2_reflections.txt",
+		"/Users/ksu42/version-control/pappu-pakia/js/utils.js",
+		"/Users/ksu42/version-control/reflections/lesson_1_reflections.txt",
+		"/js/utils.js",
+		"/Users/ksu42/.bash_profile",
+		"/Users/ksu42/Downloads/bash_profile_course",
+		"/.bash_profile",
+		"/Users/ksu42/Documents/KSu42 Repo/Code Practice/Flatiron/BCP/JS Objects Lab/index.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Code Practice/Flatiron/BCP/objects.js",
+		"/Users/ksu42/Documents/KSu42 Repo/Code Practice/Flatiron/BCP/JS Arrays Lab/index.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "designs.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 303.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pixel-art-smoked.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Flatiron/Learnco test 1.css"
+			],
+			[
+				"main",
+				"Udacity/GwG/practice-keyboard-shortcuts/css/main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
